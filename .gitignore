@@ -1,0 +1,13 @@
+## intellij
+*.iml
+.idea/
+.idea/workspace.xml
+*.ipr
+*.iws
+target/
+project/
+
+## vim
+*.swp
+*.swo
+
