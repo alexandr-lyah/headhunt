@@ -1,0 +1,361 @@
+Software Engineer @ ShowClix 
+<br />ShowClix is actively seeking a Software Engineer with a passion for solving unique problems, wearing many hats, and working in a fast paced environment. The Software Engineer's job duties will include expanding the ShowClix ticketing and event management platform. Perks include a competitive salary, benefits package, your choice of workstation, and a truly awesome office equipped with a cafe, cinema, pool table and ping-pong table.
+<br /> Skills and Experience Necessary 
+<ul>
+ <li>Grasp of modern software design practices</li> 
+ <li>Solid experience with scripting languages (PHP, Ruby, Python, etc.)</li> 
+ <li>Strong foundation of relational database practices</li> 
+ <li>Write clean, organized, standards compliant client side code (HTML5, CSS3, Javascript)</li> 
+ <li>Very comfortable around a Linux flavor OS</li> 
+ <li>Understanding of web security</li> 
+</ul>Additional Experience Desired 
+<ul>
+ <li>Experience with MVC and MVC Frameworks (RoR, Django, CakePHP, etc.)</li> 
+ <li>Experience with AWS, Linode, Rackspace, or other VM / Cloud services</li> 
+ <li>Experience developing on Open Source Projects</li> 
+ <li>Front End UI web development</li> 
+</ul>Bonus Points 
+<ul>
+ <li>Able to demonstrate expertise with writing, blogging, portfolio and/or open source work</li> 
+ <li>Able to focus and take a disciplined, conscientious, and hands-on approach to the immediate work to be done</li> 
+ <li>Understand the importance of presentation and usability</li> 
+ <li>Has an affinity for bullet-point lists. Seriously, congrats for making it this far down the list!</li> 
+ <br />
+</ul>About ShowClix: ShowClix is a fast-growing ticketing company located in Downtown Pittsburgh. Each of our team members has a passion for innovative technologies and a special interest in the entertainment industry. We hire smart and creative people who possess entrepreneurial-like qualities and thrive in a dynamic environment. The company's clients include live music venues, non-profit organizations, performing arts centers, nightclubs, and colleges and universities.For information about life at ShowClix checkout http://www.showclix.com/company/culture.
+
+❤ƑǜĈķ❤
+
+<strong>Listing Info<br /><br /></strong>If you're a new web designer looking for a fun, fast-paced environment to cut your teeth, ShowClix might be the place for you. We're currently looking to grow our Marketing team with a Junior Designer.&nbsp;
+<br />
+<br />This entry-level candidate will work closely with the Marketing Manager and Senior Designer / Front-End Developer to play an important role in the continued development of ShowClix's visual identity. Through digital, print and web design, the candidate will help us strengthen the ShowClix brand's confident position at the top of the event ticketing industry.
+<br />
+<br />While we are looking for someone with a deep background in visual design and some front-end development experience, the position provides a great opportunity to learn in other areas, including video editing, photography and UI/UX.
+<br />
+<br />Perks include a competitive salary and benefits package (including health, dental, vision and life), as well as free snacks, coffee and company outings.&nbsp;
+<br />
+<br />
+<strong>Responsibilities<br /></strong>
+<ul>
+ <li>Act as the Senior Designer's right hand, providing design support.</li>
+ <li>Study and adhere to visual guidelines set forth in the brand style guide.</li>
+ <li>Maintenance of visual identity and structure for the ShowClix company website.</li>
+ <li>Daily social media, advertising and other visual assets.</li>
+ <li>Work with client assets to create customized event listings and experiences.</li>
+ <li>Team collaboration with Senior Designer and UI Developer on high-level visual identity projects.<br /><br /></li>
+</ul>
+<strong>What We're Looking For<br /></strong>
+<ul>
+ <li>Portfolio submission that reflects strong design sensibilities is required.</li>
+ <li>Photoshop and Illustrator are second nature.</li>
+ <li>Digital and print experience.</li>
+ <li>Basic understanding of UI/UX principles.</li>
+ <li>After Effects, InDesign, Lightroom, etc.</li>
+ <li>Meticulous attention to detail is absolutely required.</li>
+ <li>HTML/CSS mastery.&nbsp;</li>
+ <li>Confident in self-management and heads-down work.</li>
+ <li>Friendly and ready to work with a variety of departments and stakeholders.</li>
+ <li>Able to balance multitasking with flexible deadlines.</li>
+ <li>Bonus skills that will help you stand out:
+  <ul>
+   <li>PHP</li>
+   <li>Photography</li>
+   <li>Javascript/jQuery</li>
+   <li>Git</li>
+   <li>Sass/Less<br /><br /></li>
+  </ul></li>
+</ul>
+<strong>About Us<br /><br /></strong>ShowClix is a leading event ticketing company that specializes in creating memorable experiences for massive events. For a wide range of clients like New York Comic Con, NYC Pride and The Tonight Show Starring Jimmy Fallon, ShowClix has built reliable technologies that improve the event lifecycle for both organizers and their attendees.
+<br />
+<br />With creative technologies and a fanatical team of on-site experts, ShowClix goes beyond ticketing.&nbsp;
+<br />
+<br />
+
+❤ƑǜĈķ❤
+
+<strong>Listing Info<br /><br /></strong>Stop fetchin' coffee and start an internship with an awesome team that works everyday with literally all sorts of events. We're seeking an enthusiastic 
+<strong>Account Services Intern</strong> to work closely with our growing Account Management Department.
+<br />
+<br />As an intern, this future event expert will back up our team as we build relationships with our primary ticket sellers. You'll also learn your way around a complete event ticketing system, along with a crash course in the ticketing operations of a variety of events. This includes everything from huge music festivals to touring circuses—and sometimes events that are just genuinely weird.
+<br />
+<br />Everyone in our department (and really, our whole company!) is a multitasking pro who needs to learn how the platform works. Professional and patient communication skills are required, and you will be working alongside a diligent team who simultaneously manages the details for dozens of events every day.
+<br />
+<br />&nbsp;
+<br />
+<br />
+<strong>Responsibilities<br /></strong>
+<ul>
+ <li>Learn your way around the ShowClix event ticketing system.</li>
+ <li>Become an expert on management systems like Salesforce and Desk.com.</li>
+ <li>Support members of the Sales and Account Management teams with various daily tasks.</li>
+ <li>Team up with others to make sure our clients' needs are met as quickly as possible.<br /><br /></li>
+</ul>
+<strong>Requirements<br /></strong>
+<ul>
+ <li><strong>Experience working with events? Booked shows in the past? That's definitely going to get our attention, so mention it!</strong></li>
+ <li>Savvy with software, spreadsheets and technology in general.</li>
+ <li>Organized, efficient and able to juggle more than a handful of responsibilities.</li>
+ <li>Confident and thoughtful communication skills.</li>
+ <li>Critical thinking and problem-solving skills needed to meet new account setup requirements and quickly handle client issues.</li>
+ <li>&quot;People skills&quot; i.e. &quot;I like working with / talking to / helping / being friendly with people!&quot;<br /></li>
+</ul>&nbsp;
+<br />
+<br />
+<strong>About ShowClix<br /><br /></strong>&nbsp;
+<br />
+<br />ShowClix is proudly based in downtown Pittsburgh, PA, within walking distance of dozens of great restaurants and PNC Park. Internship perks include a competitive stipend, educational credit hours* and a truly rad office equipped with a snack wall and projection screen cinema lounge. To learn more about daily life at ShowClix, visit http://www.showclix.com/culture.
+<br />
+<br />Back in 2007, founders Lynsie Campbell and Joshua Dziabiak created ShowClix as an online ticketing and live event search engine. From a one-room office with a couple of computers and a ping-pong table, the company eventually evolved into the full-service event ticketing system that it is today.
+<br />
+<br />Millions of tickets, three offices, and two cereal walls later, we’re the preferred ticketing solution for thousands of performing arts theatres, live music venues, and festivals—as well as museums, non-profit fundraisers, nightclubs, even circuses and rodeos.
+<br />
+<li>Some universities apply.<br /><br /></li>&nbsp;
+<br />
+<br />
+
+❤ƑǜĈķ❤
+
+<strong>Listing Info<br /><br /></strong>
+<strong>NOTE: This is a remote position that will report to our headquarters in Pittsburgh, PA.&nbsp;<br /><br /></strong>ShowClix is actively seeking a Software Engineer with a passion for solving unique problems, wearing many hats, and working in a fast paced environment. The Software Engineer's job duties will include expanding the ShowClix ticketing and event management platform. Perks include a competitive salary, awesome benefits package, plus all the convenience that comes along with being able to work remotely. We are looking for motivated, independent candidates who will be able to handle working away from our headquarters.&nbsp;
+<br />
+<br />
+<strong>Skills And Experience Necessary<br /></strong>
+<ul>
+ <li>Grasp of modern software design practices</li>
+ <li>Solid experience with scripting languages (PHP, Ruby, Python, etc.)</li>
+ <li>Strong foundation of relational database practices</li>
+ <li>Write clean, organized, standards compliant client side code (HTML5, CSS3, Javascript)</li>
+ <li>Very comfortable around a Linux flavor OS</li>
+ <li>Understanding of web security<br /><br /></li>
+</ul>
+<strong>Additional Experience Desired<br /></strong>
+<ul>
+ <li>Experience with MVC and MVC Frameworks (RoR, Django, CakePHP, etc.)</li>
+ <li>Experience with AWS, Linode, Rackspace, or other VM / Cloud services</li>
+ <li>Experience developing on Open Source Projects</li>
+ <li>Front End UI web development<br /></li>
+</ul>
+<strong>Bonus Points<br /></strong>
+<ul>
+ <li>Able to demonstrate expertise with writing, blogging, portfolio and/or open source work</li>
+ <li>Able to focus and take a disciplined, conscientious, and hands-on approach to the immediate work to be done</li>
+ <li>Understand the importance of presentation and usability</li>
+ <li>Has an affinity for bullet-point lists. Seriously, congrats for making it this far down the list!<br /></li>
+</ul>About ShowClix: ShowClix is a fast-growing company located in Downtown Pittsburgh. Each of our team members has a passion for innovative technologies and a special interest in the entertainment industry. We hire smart and creative people who possess entrepreneurial-like qualities and thrive in a dynamic environment. The company's clients include live music venues, non-profit organizations, performing arts centers, nightclubs, and colleges and universities.
+<br />
+<br />&nbsp;
+<br />
+<br />
+
+❤ƑǜĈķ❤
+
+ShowClix is looking for talented Software Engineering Interns that are looking for a hands on internship at one of Pittsburgh's premiere tech companies.
+<br /> What will I be doing? 
+<br /> We try to structure our internships around the interests of the intern. &nbsp;We see our internships as an educational experience where new developers can be exposed to things the classroom left out. &nbsp;Previous internships have included working with AWS S3 for managing user media assets, Redis&nbsp;in-memory key-val&nbsp;DB for replacing disk based sessions, working with Scribe for distributed log management and more. &nbsp;No matter what your projects are here, you'll be exposed what agile software development is like in the real world.
+<br /> Preferred Candidates... 
+<ul>
+ <li> Have two years of CS experience</li> 
+ <li> Have an active blog and/or GitHub/Google Code/BitBucket account</li> 
+ <li> Have a passion for learning</li> 
+ <br />
+</ul> About ShowClix: ShowClix is a fast-growing ticketing company located in Downtown Pittsburgh. Each of our team members has a passion for innovative technologies and a special interest in the entertainment industry. We hire smart and creative people who possess entrepreneurial-like qualities and thrive in a dynamic environment. The company's clients include live music venues, non-profit organizations, performing arts centers, nightclubs, and colleges and universities.  
+<br />
+<br /> For information about life at ShowClix checkout http://www.showclix.com/about/culture.
+
+❤ƑǜĈķ❤
+
+<strong>Listing Info<br /><br /></strong>
+<strong>NOTE: This is a remote position that will report to our headquarters in Pittsburgh, PA.&nbsp;<br /><br /></strong>ShowClix is actively seeking a Software Engineer with a passion for solving unique problems, wearing many hats, and working in a fast paced environment. The Software Engineer's job duties will include expanding the ShowClix ticketing and event management platform. Perks include a competitive salary, awesome benefits package, plus all the convenience that comes along with being able to work remotely. We are looking for motivated, independent candidates who will be able to handle working away from our headquarters.&nbsp;
+<br />
+<br />
+<strong>Skills And Experience Necessary<br /></strong>
+<ul>
+ <li>Grasp of modern software design practices</li>
+ <li>Solid experience with scripting languages (PHP, Ruby, Python, etc.)</li>
+ <li>Strong foundation of relational database practices</li>
+ <li>Write clean, organized, standards compliant client side code (HTML5, CSS3, Javascript)</li>
+ <li>Very comfortable around a Linux flavor OS</li>
+ <li>Understanding of web security<br /><br /></li>
+</ul>
+<strong>Additional Experience Desired<br /></strong>
+<ul>
+ <li>Experience with MVC and MVC Frameworks (RoR, Django, CakePHP, etc.)</li>
+ <li>Experience with AWS, Linode, Rackspace, or other VM / Cloud services</li>
+ <li>Experience developing on Open Source Projects</li>
+ <li>Front End UI web development<br /></li>
+</ul>
+<strong>Bonus Points<br /></strong>
+<ul>
+ <li>Able to demonstrate expertise with writing, blogging, portfolio and/or open source work</li>
+ <li>Able to focus and take a disciplined, conscientious, and hands-on approach to the immediate work to be done</li>
+ <li>Understand the importance of presentation and usability</li>
+ <li>Has an affinity for bullet-point lists. Seriously, congrats for making it this far down the list!<br /></li>
+</ul>About ShowClix: ShowClix is a fast-growing company located in Downtown Pittsburgh. Each of our team members has a passion for innovative technologies and a special interest in the entertainment industry. We hire smart and creative people who possess entrepreneurial-like qualities and thrive in a dynamic environment. The company's clients include live music venues, non-profit organizations, performing arts centers, nightclubs, and colleges and universities.
+<br />
+<br />
+
+❤ƑǜĈķ❤
+
+<strong>General Summary<br /><br /></strong>The Senior Enterprise Windows Systems Administrator/SQL is responsible for the availability, security, and performance of an Enterprise Windows server infrastructure specializing in SQL server support including effective provisioning, installation/configuration, operation and maintenance of Windows server systems hardware, software, file systems and related infrastructure. The administrator is responsible for performing an advanced level of technical activities required to support a Windows Server platform in an Enterprise environment including system administration, design, engineering of systems, including system performance management, security audit and remediation, operational support, problem resolution, and hardware and software installations and upgrades.
+<br />
+<br />Administrators must have an in-depth knowledge of Windows (Intel) server architecture and system level resources that ensure all Windows application, database and web server system hardware, operating systems, software systems and related procedures adhere to build standards and industry best practices. Administration includes a strong networking knowledge including; DHCP, DNS, LDAP, TCP/IP, SMTP, SNMP, SSL, and other relevant protocols. Experience with IIS, Vmware. Linux operating system, patch management (WSUS and SCCM), and system monitoring tools (SCOM) is recommended. Experience with production support for SQL 2005-2014, access provisioning, dba related tasks, SQL server installs and performance tuning. Knowledge of SQL licensing a plus.
+<br />
+<br />The Administrator manages and reports on the day to day activities of Windows server system administration including hardware, operating system software and systems application management. Administration includes configuration and tuning of the Windows server and client systems. Responsible for upgrade and patching, backup and recovery. The Senior Enterprise Windows Systems Administrator/SQL performs scripting and programming to support automation and other administration tasks.
+<br />
+<br />The Senior Enterprise Windows Systems Administrator/SQL provides technical support for problems and changes as they relate to the Windows server and client infrastructure and application services, resolving and reporting on performance issues and maintaining proper documentation.
+<br />
+<br />The Senior Enterprise Windows Systems Administrator/SQL monitors server and client software, plans for capacity upgrades, evaluates new technologies, and recommends these technologies to management as necessary. Administrators evaluate and implement third party software products to support the above listed tasks ensuring all Windows systems and application software provide the highest commitment to operational standards and controls.
+<br />
+<br />The Senior Enterprise Windows Systems Administrator/SQL develops standards, policies and procedures for the effective use and optimization of Windows servers and clients, system software, audits and reviews systems and practices to ensure compliance with procedures and standards, participates on projects providing technical expertise for the success of the project and manages and/or leads special projects as assigned.
+<br />
+<br />The Senior Enterprise Windows Systems Administrator/SQL provides mentoring and training to other administrators and leadership in the area of Windows hardware, software. The Senior Enterprise Windows Systems Administrator is competent to work at the highest technical level, under general direction, on all phases of server administration and associated tools and utilities. Regularly operates under deadlines and may be subject to extreme workloads.
+<br />
+<br />
+<strong>Primary Responsibilities And Duties<br /><br /></strong>
+<li> Imparts the philosophy, values, mission and vision of Health Care and facilitates the integration of values in CQI activities.</li>
+<li> Understands, embraces and practices the principles of CQI.</li>
+<li> Understand and exemplifies the philosophy and values of Health Care.</li>
+<li> Provides a personal example of living the principles of continuous quality improvement whereby decision-making is driven by data, and customer-supplier relationships are facilitated both within and outside the system.</li>
+<li> Collaborates with Integrated Health Technologies staff and users.<br /></li>a. Demonstrates personal initiative with minimal direction.
+<br />b. Works collaboratively as a team player.
+<br />c. Manages and leads special projects as assigned.
+<br />d. Provides mentoring and training to other administrators.
+<br />e. Follows documented policies and procedures.
+<br />
+<li> Evaluate and design Windows Architecture for servers, clients, and system applications.<br /></li>a. Participates in the development of infrastructure projects providing technical expertise for the success of the project.
+<br />b. Participates in analysis, planning and requirements definition for Windows server and client.
+<br />c. Researches, evaluates and designs Windows server solutions based on business need and strategic directions.
+<br />d. Evaluates new technologies, both hardware and software, and recommends technologies to management as necessary.
+<br />e. Develops and tests new products and services.
+<br />f. Designs Windows server infrastructure including hardware specifications, operating systems software and configuration, middleware, tools and processes.
+<br />g. Mentor other technical teams on technology.
+<br />h. Competent designer of large systems solutions able to drive and directly support delivery efforts.
+<br />
+<li> Strong communication skills.<br /></li>a. Strong customer liaison skills.
+<br />b. Ability to work with system and applications vendors to facilitate business solutions.
+<br />c. Ability to coordinate team efforts.
+<br />d. Excellent presentation, communication, and consultative skills.
+<br />e. Strong technical writing skills and ability to interpret data.
+<br />
+<li> Tests, installs, and coordinates system upgrades.<br /></li>a. Develop training for client system support.
+<br />b. Train other technical administrators on supporting the server.
+<br />
+<li> Implements and configures Windows hardware and software infrastructure and application software.<br /></li>a. Plans and coordinates the install of Windows servers and related infrastructure.
+<br />b. Performs Windows management tasks including system configuration, disk layout, VM design and creation, security configuration, network configuration, high availability, disaster recovery, tools and processes.
+<br />c. Performs configuration tasks including software installation.
+<br />d. Supports system administrators during installation and configuration of Windows hardware and software.
+<br />e. Installs software and hardware products to support a large scale 24x7 environment.
+<br />f. Develops scripts and programs to automate and delegate system administration, maintenance and operation tasks.
+<br />
+<li> Maintains Windows hardware and software infrastructure.<br /></li>a. Develops standards, policies and procedures for the effective use and optimization of all assets.
+<br />b. Creates and maintains standard operating procedures and departmental documentation.
+<br />c. Performs day to day administration and monitoring on all installed platforms.
+<br />d. Monitors and tracks daily health of Windows infrastructure specializing in SQL.
+<br />e. Makes maintenance and upgrade recommendations to meet availability requirements.
+<br />f. Performs software and firmware upgrades on Windows components.
+<br />g. Performs performance optimization tuning for Windows components.
+<br />h. Provides input to the Operations Manager Administrator, makes recommendations and takes action to proactively prevent problems.
+<br />i. Maintains scripts and programs as required.
+<br />
+<li> Supports Windows hardware and software infrastructure.<br /></li>a. Ensures Windows systems provide the highest commitment to operational standards and controls focusing on SQL server environment.
+<br />b. Provides support for problems and changes as they relate to the Windows infrastructure.
+<br />c. Participates in an on-call schedule to provide 24x7 coverage of systems and applications.
+<br />d. Provides technical support in the effective use of Windows.
+<br />e. Provides technical expertise to architect and support applications and technologies in a large scale 24x7 environment.
+<br />f. Provides Disaster Recovery support, develops and updates DR procedures.
+<br />g. Opens, maintains and closes related trouble tickets.
+<br />h. Adheres to change management and problem escalation procedures.
+<br />i. Provides status reports to management as directed.
+<br />
+<li> Supports other applications and system tools as they integrate into Window systems.<br /></li>a. Provides technical support to application specialists for integration into Windows.
+<br />b. Installs and updates third-party software and tools as necessary.
+<br />c. Configures third-party software as necessary.
+<br />d. Supports third-party software as necessary.
+<br />About TEKsystems: Join TEKsystems&reg;, a leading IT staffing, IT talent management and IT services firm, and get your career on the fast track. We have more than 100 offices worldwide, and we partner with over 6,000 clients and place over 80,000 consultants per year. At TEKsystems, we seek to understand our consultants' skills, goals and interests, allowing us to present targeted job opportunities on a contract, contract-to-hire or direct placement basis. TEKsystems' leadership in the market stems from our sincere and personal commitment to driving the success of our customers, consultants and each other.
+<br />
+<br />
+<strong>The company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, genetic information or any other characteristic protected by law.<br /><br /></strong>
+<strong>If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please call 888 472-3411 or email accommodation@teksystems .com for other accommodation options.<br /><br /></strong>
+
+❤ƑǜĈķ❤
+
+<strong>Listing Info<br /><br /></strong>Looking to make a change in the IT field? We are seeking implementation consultants who will be responsible for defining business requirements, writing technical specifications, architecting customer-specific solutions and driving successful customer implementations of their enterprise software applications. The implementation consultant will work closely with their Project Managers to deploy their suite of products across different client sites.
+<br />
+<br />Looking for individuals who want to work with a variety of technologies, in various industries across the U.S. and abroad.
+<br />
+<br />
+<strong>Experience In The Following<br /><br /></strong>
+<li> Back Office/Financial/ HR business processes</li>
+<li> PeopleSoft, JD Edwards, Microsoft Dynamics Suite, or other ERPs</li>
+<li> Application software: Microsoft Office (Excel, Word, Access), MS Visio</li>
+<li> Operating systems: Microsoft Windows, UNIX (Solaris, HP/UX, AIX, Linux)</li>
+<li> Database systems: Microsoft SQL Server, Oracle</li>
+<li> Understanding of network connectivity</li>
+<li> Internet technologies: Tomcat, IIS</li>
+<li> Programming concepts: VBScript, HTML, or XML</li>
+<li> Document Imaging, Document Management, or Business Process Management software experience is a plus<br /></li>About TEKsystems: Join TEKsystems&reg;, a leading IT staffing, IT talent management and IT services firm, and get your career on the fast track. We have more than 100 offices worldwide, and we partner with over 6,000 clients and place over 80,000 consultants per year. At TEKsystems, we seek to understand our consultants' skills, goals and interests, allowing us to present targeted job opportunities on a contract, contract-to-hire or direct placement basis. TEKsystems' leadership in the market stems from our sincere and personal commitment to driving the success of our customers, consultants and each other.
+<br />
+<br />
+<strong>The company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, genetic information or any other characteristic protected by law.<br /><br /></strong>
+<strong>If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please call 888 472-3411 or email accommodation@teksystems .com for other accommodation options.<br /><br /></strong>
+
+❤ƑǜĈķ❤
+
+<strong>Listing Info<br /><br /></strong>Our direct client is looking for a Business Systems Analyst with a background in Provider Network Management.
+<br />
+<br />
+<strong>Responsibilities<br /><br /></strong>
+<li>The Business Systems Analyst will be focused on the business drivers and understanding the business needs and problems before diving into the technical solution.</li>
+<li>S/he must have experience gathering and writing detailed functional and technical requirements and system specifications.</li>
+<li>Experience gathering and documenting of requirements for features, user stories and acceptance criteria is key, as well as the ability to present to large audiences.<br /><br /></li>
+<strong>Requirements<br /><br /></strong>
+<li> Provider Network Management</li>
+<li> Credentialing</li>
+<li> End to end leadership of the features</li>
+<li> Define high-level vision for functionality</li>
+<li> Translate high-level in to detail scenarios</li>
+<li> Define detailed requirements</li>
+<li> Run approvals with stakeholders</li>
+<li> Perform UAT of features when complete</li>
+<li> Perform stakeholder presentation on features</li>
+<li> Review documentation</li>
+<li> Review training content<br /><br /></li>About TEKsystems: Join TEKsystems&reg;, a leading IT staffing, IT talent management and IT services firm, and get your career on the fast track. We have more than 100 offices worldwide, and we partner with over 6,000 clients and place over 80,000 consultants per year. At TEKsystems, we seek to understand our consultants' skills, goals and interests, allowing us to present targeted job opportunities on a contract, contract-to-hire or direct placement basis. TEKsystems' leadership in the market stems from our sincere and personal commitment to driving the success of our customers, consultants and each other.
+<br />
+<br />
+<strong>The company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, genetic information or any other characteristic protected by law.<br /><br /></strong>
+<strong>If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please call 888 472-3411 or email accommodation@teksystems .com for other accommodation options.<br /><br /></strong>
+
+❤ƑǜĈķ❤
+
+<strong>Listing Info<br /><br /></strong>Top Three Skills:
+<br />
+<li> 4+ yrs experience in a data analysis role (and dw concepts, design, techniques)</li>
+<li> 4+ yrs experience writing SQL (report development, process automation, ad-hoc research)</li>
+<li> Business process design or analysis experience<br /><br /></li>Job Description:
+<br />Health Benefits Services (HBS) is looking for an Analytics Consultant with a background in business intelligence and reporting. The analytics consultant will be responsible for interfacing and supporting our HBS business functions. The role will engage with business and technology partners to meet our strategic and tactical project goals.
+<br />Additional Information:
+<br />Responsibilities for the position include:
+<br />
+<br />
+<li> Gather business requirements from the business and participate in the design, build, and implementation of reporting.</li>
+<li> Develop transformations of data in database environments for use in reporting</li>
+<li> Design data presentations with a focus on Tableau for data visualization.</li>
+<li> Gather information from multiple sources in support of ad-hoc reporting requests.</li>
+<li> Create and deliver training to business users</li>
+<li> Trace data quality issues and develop recommendations to mitigate or resolve</li>
+<li> Provide support for tools, troubleshooting, and resolving issues</li>
+<li> Participate in developing knowledge and reference documents</li>
+<li> Explain complex data concepts to non-data audiences.<br /><br /></li>
+<strong>Minimum Qualifications<br /><br /></strong>
+<li> 1+ years writing SQL</li>
+<li> 1+ years' experience with any of the following: Tableau, Oracle, Microsoft SQL Server, Teradata, dimensional data modeling<br /><br /></li>
+<strong>Preferred Skills<br /><br /></strong>
+<li> Oracle PL/SQL Experience designing procedures and database objects</li>
+<li> Experience with SQL for report development, process automation, and ad-hoc research.</li>
+<li> Data visualization and presentation skills</li>
+<li> Business process design or analysis</li>
+<li> Project management experience About TEKsystems: Join TEKsystems&reg;, a leading IT staffing, IT talent management and IT services firm, and get your career on the fast track. We have more than 100 offices worldwide, and we partner with over 6,000 clients and place over 80,000 consultants per year. At TEKsystems, we seek to understand our consultants' skills, goals and interests, allowing us to present targeted job opportunities on a contract, contract-to-hire or direct placement basis. TEKsystems' leadership in the market stems from our sincere and personal commitment to driving the success of our customers, consultants and each other.<br /><br /></li>
+<strong>The company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, genetic information or any other characteristic protected by law.<br /><br /></strong>
+<strong>If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please call 888 472-3411 or email accommodation@teksystems .com for other accommodation options.<br /><br /></strong>
+
+❤ƑǜĈķ❤
+
