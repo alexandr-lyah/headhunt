@@ -25,11 +25,11 @@ public class LinkedinJD {
     private static final String outputFile = "src/resources/data/ingest/linkedin.jd.tmp2";
 
     // taken first 50 job ids
-    private static int [] startJobIds = {121048071, 121593029,120961177,103868309,103833981,102363455,105710885, 120986546, 104861050};
+    private static int [] startJobIds = {132301592, 141733728};
     private static String rareDelim = "\u2764\u0191\u01DC\u0108\u0137\u2764"+"wowitsucks";
 
-    private static UtilitiesURL uUrl;
-    private static UtilitiesFile uFile;
+    private UtilitiesURL uUrl;
+    private UtilitiesFile uFile;
 
     private static TreeSet<String> tmpJobId = new TreeSet<>();
 
@@ -113,7 +113,7 @@ public class LinkedinJD {
 
     }
 
-    private String readHtmlContent(String url) {
+    public String readHtmlContent(String url) {
         StringBuilder builder = new StringBuilder();
         String content = null;
 
