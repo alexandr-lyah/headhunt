@@ -1,6 +1,13 @@
 package com.headhunt.ingest.jd;
 
+import com.headhunt.utils.commonutils.fileutils.UtilitiesFile;
 import com.headhunt.utils.commonutils.urlutils.UtilitiesURL;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
+import org.jsoup.nodes.TextNode;
+import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -16,7 +23,7 @@ public class IndeedJd {
 
     // search_url = "http://www.indeed.com/jobs?q=software+engineer&l=Philadelphia%2C+PA";
     private final String startURL = "http://www.indeed.com/viewjob?jk=";
-    private final String startjobId = "626efb4b88d6838b";
+    private final String startjobId = "7bfe49f2643e1b2e";
 
     private UtilitiesURL uurl;
 
@@ -29,16 +36,26 @@ public class IndeedJd {
 
     public static void main(String[] args) {
         IndeedJd indeedJd = new IndeedJd();
-        indeedJd.impl();
+
+        UtilitiesFile utilitiesFile = new UtilitiesFile();
+        indeedJd.parseJD(utilitiesFile.readFileInString("/Users/sagraw200/Documents/dev/team-personal/headhunt/src/main/java/com/headhunt/ingest/jd/sampleindeed.html"));
+//        indeedJd.impl();
     }
 
     private void impl() {
+
         allJobIds.add(startjobId);
+
         String urlText = readJDUrl(startURL + startjobId);
         String jdText = parseJD(urlText);
-        List<String> recJobs = getRecommendedJobIds(urlText);
-        allJobIds.addAll(recJobs);
         readJobIds.add(startjobId);
+
+        List<String> recJobs = getRecommendedJobIds(urlText);
+        for (String jid : recJobs) {
+            if (!allJobIds.contains(jid)) {
+                allJobIds.add(jid);
+            }
+        }
 
         int N = 1;
         while (true) {
@@ -53,16 +70,22 @@ public class IndeedJd {
 
             urlText = readJDUrl(startURL + jobId);
             jdText = parseJD(urlText);
+            readJobIds.add(startjobId);
+
             recJobs = getRecommendedJobIds(urlText);
-            allJobIds.addAll(recJobs);
-            readJobIds.add(jobId);
+            for (String jid : recJobs) {
+                if (!allJobIds.contains(jid)) {
+                    allJobIds.add(jid);
+                }
+            }
+
         }
 
     }
 
     private List<String> getRecommendedJobIds(String urlText) {
         // recommended jobs : <div class="recJobs">
-            // jk=e28fa4eeaf95b1f4 inside href
+        // jk=e28fa4eeaf95b1f4 inside href
 
         List<String> result = new ArrayList<>();
 
@@ -86,12 +109,72 @@ public class IndeedJd {
     }
 
     private String parseJD(String urlText) {
+        System.out.println("Start JD Parsing");
+        Document doc = Jsoup.parse(urlText);
+
+        StringBuilder general = new StringBuilder();
+        List<String> ll = new ArrayList();
+        Elements elems = doc.select("span[class=summary]");
+        for (Element elem : elems) {
+            Element idElem = elem.getElementById("job_summary");
+            List<Node> childnodes = idElem.childNodes();
+
+            for (Node childnode : childnodes) {
+                boolean isList = false;
+                Node childParent = childnode.parentNode().parentNode();
+                if (childParent instanceof Element) {
+                    String ee = ((Element)childParent).tagName();
+                    if (ee.contains("li")) {
+                        isList = true;
+                    }
+                }
+
+                String nodeText = "";
+                String nodeTag = "";
+
+                if (childnode instanceof TextNode) {
+                    nodeText = ((TextNode) childnode).text().replaceAll("\n", " ").trim();
+                }
+                else if (childnode instanceof Element) {
+                    nodeText = ((Element)childnode).text().replaceAll("\n", " ").trim();
+                    String tag = ((Element)childnode).tagName();
+                    if (tag != null && tag.equalsIgnoreCase("b")) {
+                        nodeTag = "b";
+                    }
+                }
+
+                // print
+                if (!isList && ll.isEmpty()) {
+                    general.append(nodeTag).append(".").append(nodeText).append(".");
+                }
+                else if (!isList && !ll.isEmpty()) {
+                    general.append(ll).append(" ");
+                    ll = new ArrayList<>();
+                } else {
+                    ll.add(nodeText);
+                }
+
+                if (isList) {
+                    System.out.print(isList + " ");
+                }
+                if (!nodeTag.isEmpty()) {
+                    System.out.print(nodeTag + " ");
+                }
+                if (!nodeText.isEmpty()) {
+                    System.out.println(nodeText + " ");
+                }
+
+            }
+        }
+
         // summary : <span id="job_summary" class="summary">
         // job header : <div id="job_header" data-tn-component="jobHeader">
-            // <b class="jobtitle"> : job title
-            // <span class="company"> : company
-            // <span class="location"> : location
+        // <b class="jobtitle"> : job title
+        // <span class="company"> : company
+        // <span class="location"> : location
 
+//        System.out.println(general.toString().replaceAll("[.]+", ".").replaceAll("( )+", " "));
+        System.out.println("End JD Parsing");
         return null;
     }
 
